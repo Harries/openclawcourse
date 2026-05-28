@@ -1,8 +1,8 @@
 # OpenClaw 是什么？为什么它不是普通 AI Agent
 
-![OpenClaw 中文配图](../assets/day-01-openclaw-intro-zh.png)
+![OpenClaw 中文配图](../assets/lesson-01-openclaw-intro-zh.png)
 
-![OpenClaw English cover](../assets/day-01-openclaw-intro-en.png)
+![OpenClaw English cover](../assets/lesson-01-openclaw-intro-en.png)
 
 这两年，AI Agent 这个词已经被用得太多了。
 

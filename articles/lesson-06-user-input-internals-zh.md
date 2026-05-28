@@ -1,6 +1,6 @@
 # 用户输入后内部发生了什么
 
-![用户输入后内部发生了什么中文配图](../assets/day-08-user-input-internals-zh.png)
+![用户输入后内部发生了什么中文配图](../assets/lesson-06-user-input-internals-zh.png)
 
 你在 OpenClaw 里输入一句话：
 

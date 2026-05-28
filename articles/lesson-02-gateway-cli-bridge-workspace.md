@@ -1,8 +1,8 @@
 # Gateway、CLI、Bridge、Workspace 全部讲透
 
-![OpenClaw Gateway CLI Bridge Workspace 中文配图](../assets/day-02-openclaw-architecture-zh.png)
+![OpenClaw Gateway CLI Bridge Workspace 中文配图](../assets/lesson-02-gateway-cli-bridge-workspace-zh.png)
 
-![OpenClaw Gateway CLI Bridge Workspace English cover](../assets/day-02-openclaw-architecture-en.png)
+![OpenClaw Gateway CLI Bridge Workspace English cover](../assets/lesson-02-gateway-cli-bridge-workspace-en.png)
 
 上一篇我们讲清楚了一件事：OpenClaw 不是一个普通 AI Agent，而是一套让 Agent 能进入真实系统的运行平台。
 

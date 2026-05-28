@@ -1,6 +1,6 @@
 # 会话、消息、上下文和任务状态如何组织
 
-![会话、消息、上下文和任务状态如何组织中文配图](../assets/day-12-session-message-state-zh.png)
+![会话、消息、上下文和任务状态如何组织中文配图](../assets/lesson-08-session-message-state-zh.png)
 
 学 OpenClaw 时，很多人会把四个概念混在一起：
 

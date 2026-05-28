@@ -1,6 +1,6 @@
 # 手写一个最小 Agent
 
-![手写一个最小 Agent 中文配图](../assets/day-10-minimal-agent-zh.png)
+![手写一个最小 Agent 中文配图](../assets/lesson-24-minimal-agent-zh.png)
 
 前面九节，我们一直在拆 OpenClaw。
 

@@ -1,6 +1,6 @@
 # Where to Find OpenClaw Skills
 
-![Where to find OpenClaw Skills English cover](../assets/day-06-find-openclaw-skills-en.png)
+![Where to find OpenClaw Skills English cover](../assets/lesson-30-find-openclaw-skills-en.png)
 
 Once you know how to use skills, the next question is obvious:
 

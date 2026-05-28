@@ -1,6 +1,6 @@
 # How Streaming Output, Tool Calls, and Intermediate State Return to the User
 
-![English cover](../assets/day-14-streaming-tools-state-en.png)
+![English cover](../assets/lesson-10-streaming-tools-state-en.png)
 
 You ask OpenClaw to do a task:
 

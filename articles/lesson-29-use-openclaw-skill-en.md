@@ -1,6 +1,6 @@
 # How to Use OpenClaw Skills
 
-![How to use OpenClaw Skills English cover](../assets/day-05-use-openclaw-skill-en.png)
+![How to use OpenClaw Skills English cover](../assets/lesson-29-use-openclaw-skill-en.png)
 
 Many people hear "OpenClaw Skill" and immediately think "plugin."
 

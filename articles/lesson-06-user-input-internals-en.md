@@ -1,6 +1,6 @@
 # What Happens Inside OpenClaw After User Input
 
-![What happens inside OpenClaw after user input English cover](../assets/day-08-user-input-internals-en.png)
+![What happens inside OpenClaw after user input English cover](../assets/lesson-06-user-input-internals-en.png)
 
 You type a message into OpenClaw:
 

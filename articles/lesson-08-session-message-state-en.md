@@ -1,6 +1,6 @@
 # How Sessions, Messages, Context, and Task State Are Organized
 
-![English cover](../assets/day-12-session-message-state-en.png)
+![English cover](../assets/lesson-08-session-message-state-en.png)
 
 When people first learn OpenClaw, four concepts often blur together:
 

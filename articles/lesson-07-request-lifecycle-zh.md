@@ -1,6 +1,6 @@
 # 一次 OpenClaw 请求的完整生命周期
 
-![一次 OpenClaw 请求的完整生命周期中文配图](../assets/day-11-request-lifecycle-zh.png)
+![一次 OpenClaw 请求的完整生命周期中文配图](../assets/lesson-07-request-lifecycle-zh.png)
 
 你在 OpenClaw 里输入一句话：
 

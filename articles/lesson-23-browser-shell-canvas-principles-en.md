@@ -1,6 +1,6 @@
 # Browser, Shell, and Canvas Principles
 
-![Browser, Shell, and Canvas principles English cover](../assets/day-09-browser-shell-canvas-principles-en.png)
+![Browser, Shell, and Canvas principles English cover](../assets/lesson-23-browser-shell-canvas-principles-en.png)
 
 By now, one idea should be clear:
 

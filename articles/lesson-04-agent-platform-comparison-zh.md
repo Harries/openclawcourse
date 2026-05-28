@@ -1,6 +1,6 @@
 # OpenClaw vs OpenHands vs Hermes vs Claude Code
 
-![OpenClaw vs OpenHands vs Hermes vs Claude Code 中文配图](../assets/day-04-agent-platform-comparison-zh.png)
+![OpenClaw vs OpenHands vs Hermes vs Claude Code 中文配图](../assets/lesson-04-agent-platform-comparison-zh.png)
 
 学 AI Agent，最容易掉进一个坑：
 

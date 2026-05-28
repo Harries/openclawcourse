@@ -1,6 +1,6 @@
 # How Agent Prompts Shape Behavior
 
-![How Agent Prompts shape behavior English cover](../assets/day-07-agent-prompt-behavior-en.png)
+![How Agent Prompts shape behavior English cover](../assets/lesson-05-agent-prompt-behavior-en.png)
 
 Why can the same model behave so differently in different agents?
 

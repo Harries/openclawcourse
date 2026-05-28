@@ -1,6 +1,6 @@
 # Build a Minimal Agent by Hand
 
-![Build a minimal agent by hand English cover](../assets/day-10-minimal-agent-en.png)
+![Build a minimal agent by hand English cover](../assets/lesson-24-minimal-agent-en.png)
 
 The first nine lessons decomposed OpenClaw piece by piece.
 

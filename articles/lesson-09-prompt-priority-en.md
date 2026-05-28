@@ -1,6 +1,6 @@
 # The Priority Between System Prompt, Developer Instructions, and User Input
 
-![English cover](../assets/day-13-prompt-priority-en.png)
+![English cover](../assets/lesson-09-prompt-priority-en.png)
 
 One of the most dangerous misunderstandings in agent systems is:
 

@@ -1,6 +1,6 @@
 # Browser、Shell、Canvas 原理
 
-![Browser、Shell、Canvas 原理中文配图](../assets/day-09-browser-shell-canvas-principles-zh.png)
+![Browser、Shell、Canvas 原理中文配图](../assets/lesson-23-browser-shell-canvas-principles-zh.png)
 
 学 OpenClaw 到这里，你应该已经知道一件事：
 

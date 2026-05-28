@@ -1,6 +1,6 @@
 # 如何使用 OpenClaw Skill
 
-![如何使用 OpenClaw Skill 中文配图](../assets/day-05-use-openclaw-skill-zh.png)
+![如何使用 OpenClaw Skill 中文配图](../assets/lesson-29-use-openclaw-skill-zh.png)
 
 很多人第一次听到 OpenClaw Skill，会把它理解成“插件”。
 

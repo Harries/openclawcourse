@@ -1,6 +1,6 @@
 # 系统提示词、开发者指令和用户输入的优先级
 
-![系统提示词、开发者指令和用户输入的优先级中文配图](../assets/day-13-prompt-priority-zh.png)
+![系统提示词、开发者指令和用户输入的优先级中文配图](../assets/lesson-09-prompt-priority-zh.png)
 
 在 Agent 系统里，最危险的误解之一是：
 

@@ -1,6 +1,6 @@
 # How OpenClaw Calls Models, Tools, and Browsers
 
-![How OpenClaw calls models, tools, and browsers English cover](../assets/day-03-model-tools-browser-en.png)
+![How OpenClaw calls models, tools, and browsers English cover](../assets/lesson-03-model-tools-browser-en.png)
 
 When people first hear that an AI agent can use tools, they often imagine the model doing everything directly.
 

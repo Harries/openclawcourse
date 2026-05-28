@@ -1,6 +1,6 @@
 # OpenClaw vs OpenHands vs Hermes vs Claude Code
 
-![OpenClaw vs OpenHands vs Hermes vs Claude Code English cover](../assets/day-04-agent-platform-comparison-en.png)
+![OpenClaw vs OpenHands vs Hermes vs Claude Code English cover](../assets/lesson-04-agent-platform-comparison-en.png)
 
 When people start learning AI agents, they often collapse very different tools into one bucket.
 

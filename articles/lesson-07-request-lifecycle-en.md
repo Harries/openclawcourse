@@ -1,6 +1,6 @@
 # The Complete Lifecycle of an OpenClaw Request
 
-![English cover](../assets/day-11-request-lifecycle-en.png)
+![English cover](../assets/lesson-07-request-lifecycle-en.png)
 
 You type a request into OpenClaw:
 

@@ -1,6 +1,6 @@
 # OpenClaw 如何调用模型、工具和浏览器
 
-![OpenClaw 如何调用模型、工具和浏览器中文配图](../assets/day-03-model-tools-browser-zh.png)
+![OpenClaw 如何调用模型、工具和浏览器中文配图](../assets/lesson-03-model-tools-browser-zh.png)
 
 很多人理解 AI Agent 时，会有一个很自然的误解：
 

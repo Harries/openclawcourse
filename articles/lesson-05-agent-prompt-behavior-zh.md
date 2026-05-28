@@ -1,6 +1,6 @@
 # Agent Prompt 是怎么影响行为的
 
-![Agent Prompt 是怎么影响行为的中文配图](../assets/day-07-agent-prompt-behavior-zh.png)
+![Agent Prompt 是怎么影响行为的中文配图](../assets/lesson-05-agent-prompt-behavior-zh.png)
 
 同一个模型，为什么在不同 Agent 里表现完全不一样？
 

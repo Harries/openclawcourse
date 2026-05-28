@@ -1,6 +1,6 @@
 # OpenClaw Skill 从哪里找
 
-![OpenClaw Skill 从哪里找中文配图](../assets/day-06-find-openclaw-skills-zh.png)
+![OpenClaw Skill 从哪里找中文配图](../assets/lesson-30-find-openclaw-skills-zh.png)
 
 学会使用 Skill 之后，下一件事就是：去哪里找 Skill。
 

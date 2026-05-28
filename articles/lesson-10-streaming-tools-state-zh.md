@@ -1,6 +1,6 @@
 # 流式输出、工具调用和中间状态如何返回给用户
 
-![流式输出、工具调用和中间状态如何返回给用户中文配图](../assets/day-14-streaming-tools-state-zh.png)
+![流式输出、工具调用和中间状态如何返回给用户中文配图](../assets/lesson-10-streaming-tools-state-zh.png)
 
 你让 OpenClaw 做一个任务：
 
