@@ -37,11 +37,11 @@
 
 目标：不只知道名词，而是知道每个组件负责什么、不负责什么、和谁通信。
 
-- [ ] 第 11 讲：Gateway：OpenClaw 的入口层和调度中心
-- [ ] 第 12 讲：CLI：本地命令如何连接到 OpenClaw
-- [ ] 第 13 讲：Bridge：连接模型、工具和运行环境的中间层
-- [ ] 第 14 讲：Workspace：文件系统、项目上下文和执行边界
-- [ ] 第 15 讲：权限模型：Shell、Browser、文件读写的安全边界
+- [x] 第 11 讲：[中文](articles/lesson-11-gateway-dispatch-center-zh.md) / [English](articles/lesson-11-gateway-dispatch-center-en.md)：Gateway：OpenClaw 的入口层和调度中心
+- [x] 第 12 讲：[中文](articles/lesson-12-cli-connect-openclaw-zh.md) / [English](articles/lesson-12-cli-connect-openclaw-en.md)：CLI：本地命令如何连接到 OpenClaw
+- [x] 第 13 讲：[中文](articles/lesson-13-bridge-runtime-connection-zh.md) / [English](articles/lesson-13-bridge-runtime-connection-en.md)：Bridge：连接模型、工具和运行环境的中间层
+- [x] 第 14 讲：[中文](articles/lesson-14-workspace-context-boundary-zh.md) / [English](articles/lesson-14-workspace-context-boundary-en.md)：Workspace：文件系统、项目上下文和执行边界
+- [x] 第 15 讲：[中文](articles/lesson-15-permission-boundaries-zh.md) / [English](articles/lesson-15-permission-boundaries-en.md)：权限模型：Shell、Browser、文件读写的安全边界
 - [ ] 第 16 讲：日志与可观测性：如何看懂一次失败的调用
 
 ## 第四部分：模型接入与上下文工程
