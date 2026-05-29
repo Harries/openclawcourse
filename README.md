@@ -42,18 +42,18 @@
 - [x] 第 13 讲：[中文](articles/lesson-13-bridge-runtime-connection-zh.md) / [English](articles/lesson-13-bridge-runtime-connection-en.md)：Bridge：连接模型、工具和运行环境的中间层
 - [x] 第 14 讲：[中文](articles/lesson-14-workspace-context-boundary-zh.md) / [English](articles/lesson-14-workspace-context-boundary-en.md)：Workspace：文件系统、项目上下文和执行边界
 - [x] 第 15 讲：[中文](articles/lesson-15-permission-boundaries-zh.md) / [English](articles/lesson-15-permission-boundaries-en.md)：权限模型：Shell、Browser、文件读写的安全边界
-- [ ] 第 16 讲：日志与可观测性：如何看懂一次失败的调用
+- [x] 第 16 讲：[中文](articles/lesson-16-logs-observability-zh.md) / [English](articles/lesson-16-logs-observability-en.md)：日志与可观测性：如何看懂一次失败的调用
 
 ## 第四部分：模型接入与上下文工程
 
 目标：讲清楚 OpenClaw 如何接入不同模型，以及上下文是怎么被组织、裁剪和传递的。
 
-- [ ] 第 17 讲：Provider 抽象：为什么 OpenClaw 可以接不同模型
-- [ ] 第 18 讲：OpenAI、Claude、Gemini 与 OpenAI Compatible 接入方式
-- [ ] 第 19 讲：模型选择：速度、成本、上下文长度和工具能力
-- [ ] 第 20 讲：上下文组装：文件、历史消息、指令和工具 schema
-- [ ] 第 21 讲：工具调用协议：模型如何决定调用哪个工具
-- [ ] 第 22 讲：模型降级、重试和错误处理策略
+- [x] 第 17 讲：[中文](articles/lesson-17-provider-abstraction-zh.md) / [English](articles/lesson-17-provider-abstraction-en.md)：Provider 抽象：为什么 OpenClaw 可以接不同模型
+- [x] 第 18 讲：[中文](articles/lesson-18-model-provider-setup-zh.md) / [English](articles/lesson-18-model-provider-setup-en.md)：OpenAI、Claude、Gemini 与 OpenAI Compatible 接入方式
+- [x] 第 19 讲：[中文](articles/lesson-19-model-selection-tradeoffs-zh.md) / [English](articles/lesson-19-model-selection-tradeoffs-en.md)：模型选择：速度、成本、上下文长度和工具能力
+- [x] 第 20 讲：[中文](articles/lesson-20-context-assembly-zh.md) / [English](articles/lesson-20-context-assembly-en.md)：上下文组装：文件、历史消息、指令和工具 schema
+- [x] 第 21 讲：[中文](articles/lesson-21-tool-call-protocol-zh.md) / [English](articles/lesson-21-tool-call-protocol-en.md)：工具调用协议：模型如何决定调用哪个工具
+- [x] 第 22 讲：[中文](articles/lesson-22-failover-retry-strategy-zh.md) / [English](articles/lesson-22-failover-retry-strategy-en.md)：模型降级、重试和错误处理策略
 
 ## 第五部分：工具系统、Browser、Shell 与 Canvas
 
@@ -61,10 +61,10 @@
 
 - [x] 第 23 讲：[中文](articles/lesson-23-browser-shell-canvas-principles-zh.md) / [English](articles/lesson-23-browser-shell-canvas-principles-en.md)：Browser、Shell、Canvas 原理
 - [x] 第 24 讲：[中文](articles/lesson-24-minimal-agent-zh.md) / [English](articles/lesson-24-minimal-agent-en.md)：手写一个最小 Agent
-- [ ] 第 25 讲：Shell Tool：命令执行、输出读取和长任务管理
-- [ ] 第 26 讲：Browser Tool：网页打开、点击、输入、截图和验证
-- [ ] 第 27 讲：Canvas / Artifact：把结果变成可查看、可交互的产物
-- [ ] 第 28 讲：工具失败时怎么办：重试、回滚、人工确认和风险提示
+- [x] 第 25 讲：[中文](articles/lesson-25-shell-tool-long-tasks-zh.md) / [English](articles/lesson-25-shell-tool-long-tasks-en.md)：Shell Tool：命令执行、输出读取和长任务管理
+- [x] 第 26 讲：[中文](articles/lesson-26-browser-tool-automation-zh.md) / [English](articles/lesson-26-browser-tool-automation-en.md)：Browser Tool：网页打开、点击、输入、截图和验证
+- [x] 第 27 讲：[中文](articles/lesson-27-canvas-artifact-output-zh.md) / [English](articles/lesson-27-canvas-artifact-output-en.md)：Canvas / Artifact：把结果变成可查看、可交互的产物
+- [x] 第 28 讲：[中文](articles/lesson-28-tool-failure-recovery-zh.md) / [English](articles/lesson-28-tool-failure-recovery-en.md)：工具失败时怎么办：重试、回滚、人工确认和风险提示
 
 ## 第六部分：Skill、MCP 与插件扩展
 
