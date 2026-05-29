@@ -83,35 +83,35 @@
 
 目标：让读者能把 OpenClaw 跑起来、配明白、坏了能查。
 
-- [ ] 第 37 讲：本地安装与最小可运行配置
-- [ ] 第 38 讲：Docker / docker-compose 部署
-- [ ] 第 39 讲：配置文件、环境变量和 Provider 密钥管理
-- [ ] 第 40 讲：端口、反向代理、HTTPS 和内网访问
-- [ ] 第 41 讲：Workspace 挂载、数据目录和持久化
-- [ ] 第 42 讲：doctor / debug：常见错误如何定位
-- [ ] 第 43 讲：性能问题：慢请求、长上下文、CPU 占用和并发任务
-- [ ] 第 44 讲：升级与迁移：版本变化时怎么保护配置和数据
+- [x] 第 37 讲：[中文](articles/lesson-37-local-install-minimal-config-zh.md) / [English](articles/lesson-37-local-install-minimal-config-en.md)：本地安装与最小可运行配置
+- [x] 第 38 讲：[中文](articles/lesson-38-docker-compose-deployment-zh.md) / [English](articles/lesson-38-docker-compose-deployment-en.md)：Docker / docker-compose 部署
+- [x] 第 39 讲：[中文](articles/lesson-39-config-env-provider-secrets-zh.md) / [English](articles/lesson-39-config-env-provider-secrets-en.md)：配置文件、环境变量和 Provider 密钥管理
+- [x] 第 40 讲：[中文](articles/lesson-40-ports-proxy-https-remote-access-zh.md) / [English](articles/lesson-40-ports-proxy-https-remote-access-en.md)：端口、反向代理、HTTPS 和内网访问
+- [x] 第 41 讲：[中文](articles/lesson-41-workspace-data-persistence-zh.md) / [English](articles/lesson-41-workspace-data-persistence-en.md)：Workspace 挂载、数据目录和持久化
+- [x] 第 42 讲：[中文](articles/lesson-42-doctor-debug-troubleshooting-zh.md) / [English](articles/lesson-42-doctor-debug-troubleshooting-en.md)：doctor / debug：常见错误如何定位
+- [x] 第 43 讲：[中文](articles/lesson-43-performance-context-cpu-concurrency-zh.md) / [English](articles/lesson-43-performance-context-cpu-concurrency-en.md)：性能问题：慢请求、长上下文、CPU 占用和并发任务
+- [x] 第 44 讲：[中文](articles/lesson-44-upgrade-migration-data-protection-zh.md) / [English](articles/lesson-44-upgrade-migration-data-protection-en.md)：升级与迁移：版本变化时怎么保护配置和数据
 
 ## 第八部分：真实场景实战
 
 目标：用几个完整案例，把前面的技术串起来。
 
-- [ ] 第 45 讲：企业微信 / Telegram / WhatsApp 接入思路
-- [ ] 第 46 讲：网页自动化助手：从需求到 Browser 执行链路
-- [ ] 第 47 讲：知识库问答：RAG、文件索引和权限边界
-- [ ] 第 48 讲：数据分析助手：文件读取、脚本执行和结果可视化
-- [ ] 第 49 讲：多 Agent 与任务队列：什么时候需要拆分任务
-- [ ] 第 50 讲：SaaS 化改造：用户、租户、额度、审计和隔离
+- [x] 第 45 讲：[中文](articles/lesson-45-channel-integration-wechat-telegram-whatsapp-zh.md) / [English](articles/lesson-45-channel-integration-wechat-telegram-whatsapp-en.md)：企业微信 / Telegram / WhatsApp 接入思路
+- [x] 第 46 讲：[中文](articles/lesson-46-browser-automation-assistant-flow-zh.md) / [English](articles/lesson-46-browser-automation-assistant-flow-en.md)：网页自动化助手：从需求到 Browser 执行链路
+- [x] 第 47 讲：[中文](articles/lesson-47-knowledge-qa-rag-index-permissions-zh.md) / [English](articles/lesson-47-knowledge-qa-rag-index-permissions-en.md)：知识库问答：RAG、文件索引和权限边界
+- [x] 第 48 讲：[中文](articles/lesson-48-data-analysis-assistant-files-scripts-visuals-zh.md) / [English](articles/lesson-48-data-analysis-assistant-files-scripts-visuals-en.md)：数据分析助手：文件读取、脚本执行和结果可视化
+- [x] 第 49 讲：[中文](articles/lesson-49-multi-agent-task-queues-zh.md) / [English](articles/lesson-49-multi-agent-task-queues-en.md)：多 Agent 与任务队列：什么时候需要拆分任务
+- [x] 第 50 讲：[中文](articles/lesson-50-saas-users-tenants-quotas-audit-isolation-zh.md) / [English](articles/lesson-50-saas-users-tenants-quotas-audit-isolation-en.md)：SaaS 化改造：用户、租户、额度、审计和隔离
 
 ## 第九部分：从理解到创造
 
 目标：最终不是只会使用 OpenClaw，而是能基于 OpenClaw 设计自己的 Agent 系统。
 
-- [ ] 第 51 讲：如何设计一个可靠的 Agent 工作流
-- [ ] 第 52 讲：如何为业务写高质量 Skill
-- [ ] 第 53 讲：如何评估一个 Agent 的成功率和风险
-- [ ] 第 54 讲：如何把 OpenClaw 能力嵌入自己的产品
-- [ ] 第 55 讲：最终项目：做一个可部署的 OpenClaw 业务助手
+- [x] 第 51 讲：[中文](articles/lesson-51-reliable-agent-workflow-design-zh.md) / [English](articles/lesson-51-reliable-agent-workflow-design-en.md)：如何设计一个可靠的 Agent 工作流
+- [x] 第 52 讲：[中文](articles/lesson-52-business-skill-authoring-zh.md) / [English](articles/lesson-52-business-skill-authoring-en.md)：如何为业务写高质量 Skill
+- [x] 第 53 讲：[中文](articles/lesson-53-agent-success-risk-evaluation-zh.md) / [English](articles/lesson-53-agent-success-risk-evaluation-en.md)：如何评估一个 Agent 的成功率和风险
+- [x] 第 54 讲：[中文](articles/lesson-54-embed-openclaw-into-product-zh.md) / [English](articles/lesson-54-embed-openclaw-into-product-en.md)：如何把 OpenClaw 能力嵌入自己的产品
+- [x] 第 55 讲：[中文](articles/lesson-55-final-project-deployable-business-assistant-zh.md) / [English](articles/lesson-55-final-project-deployable-business-assistant-en.md)：最终项目：做一个可部署的 OpenClaw 业务助手
 
 ## 建议写作节奏
 
