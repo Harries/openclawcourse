@@ -72,12 +72,12 @@
 
 - [x] 第 29 讲：[中文](articles/lesson-29-use-openclaw-skill-zh.md) / [English](articles/lesson-29-use-openclaw-skill-en.md)：如何使用 OpenClaw Skill
 - [x] 第 30 讲：[中文](articles/lesson-30-find-openclaw-skills-zh.md) / [English](articles/lesson-30-find-openclaw-skills-en.md)：OpenClaw Skill 从哪里找
-- [ ] 第 31 讲：Skill 的结构：什么时候该写成说明、脚本或资源文件
-- [ ] 第 32 讲：Skill 的触发：如何让 Agent 在正确场景使用正确能力
-- [ ] 第 33 讲：MCP 基础：Server、Tool、Resource 和 Prompt
-- [ ] 第 34 讲：把一个外部系统接成 MCP 工具
-- [ ] 第 35 讲：Plugin 基础：把 Skill、MCP 和前端能力打包
-- [ ] 第 36 讲：插件权限、安装、升级和版本兼容
+- [x] 第 31 讲：[中文](articles/lesson-31-skill-structure-zh.md) / [English](articles/lesson-31-skill-structure-en.md)：Skill 的结构：什么时候该写成说明、脚本或资源文件
+- [x] 第 32 讲：[中文](articles/lesson-32-skill-triggering-zh.md) / [English](articles/lesson-32-skill-triggering-en.md)：Skill 的触发：如何让 Agent 在正确场景使用正确能力
+- [x] 第 33 讲：[中文](articles/lesson-33-mcp-basics-zh.md) / [English](articles/lesson-33-mcp-basics-en.md)：MCP 基础：Server、Tool、Resource 和 Prompt
+- [x] 第 34 讲：[中文](articles/lesson-34-external-system-mcp-tool-zh.md) / [English](articles/lesson-34-external-system-mcp-tool-en.md)：把一个外部系统接成 MCP 工具
+- [x] 第 35 讲：[中文](articles/lesson-35-plugin-basics-zh.md) / [English](articles/lesson-35-plugin-basics-en.md)：Plugin 基础：把 Skill、MCP 和前端能力打包
+- [x] 第 36 讲：[中文](articles/lesson-36-plugin-permissions-upgrades-zh.md) / [English](articles/lesson-36-plugin-permissions-upgrades-en.md)：插件权限、安装、升级和版本兼容
 
 ## 第七部分：部署、配置与调试
 
