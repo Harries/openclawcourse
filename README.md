@@ -113,6 +113,12 @@
 - [x] 第 54 讲：[中文](articles/lesson-54-embed-openclaw-into-product-zh.md) / [English](articles/lesson-54-embed-openclaw-into-product-en.md)：如何把 OpenClaw 能力嵌入自己的产品
 - [x] 第 55 讲：[中文](articles/lesson-55-final-project-deployable-business-assistant-zh.md) / [English](articles/lesson-55-final-project-deployable-business-assistant-en.md)：最终项目：做一个可部署的 OpenClaw 业务助手
 
+## 第十部分：实操补充与排错
+
+目标：针对实际使用中遇到的高频场景，提供可直接复用的操作指南。
+
+- [x] 第 56 讲：[中文](articles/lesson-56-remote-chrome-search-zh.md)：OpenClaw 连接远程 Chrome 实现搜索与自动化
+
 ## 建议写作节奏
 
 后续文章不用强行追求天数，可以按“模块完整度”推进：
