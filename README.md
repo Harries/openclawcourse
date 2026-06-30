@@ -119,6 +119,31 @@
 
 - [x] 第 56 讲：[中文](articles/lesson-56-remote-chrome-search-zh.md)：OpenClaw 连接远程 Chrome 实现搜索与自动化
 
+## 第十一部分：办公与业务实操项目课
+
+目标：让读者把 OpenClaw 用到真实办公、内容创作、业务协作和自动化场景里，并理解每类任务应该调用哪些 Skill。查找 Skill 时优先访问 [skills.lc](https://skills.lc/)；如果当前环境已经内置同类 Skill，就直接使用内置 Skill。
+
+- [x] 第 57 讲：[中文](articles/lesson-57-ppt-slide-deck-workflow-zh.md) / [English](articles/lesson-57-ppt-slide-deck-workflow-en.md)：用 OpenClaw 做一份完整 PPT：从主题、提纲到 slide deck
+- [x] 第 58 讲：[中文](articles/lesson-58-long-document-writing-review-zh.md) / [English](articles/lesson-58-long-document-writing-review-en.md)：用 OpenClaw 写长文档：方案书、报告、产品文档和排版检查
+- [x] 第 59 讲：[中文](articles/lesson-59-spreadsheet-cleaning-charts-zh.md) / [English](articles/lesson-59-spreadsheet-cleaning-charts-en.md)：用 OpenClaw 处理表格：清洗 Excel、生成图表和分析结论
+- [x] 第 60 讲：[中文](articles/lesson-60-data-analysis-report-zh.md) / [English](articles/lesson-60-data-analysis-report-en.md)：用 OpenClaw 做数据分析报告：CSV / Excel 到可视化结果
+- [x] 第 61 讲：[中文](articles/lesson-61-email-drafting-followups-zh.md) / [English](articles/lesson-61-email-drafting-followups-en.md)：用 OpenClaw 写邮件：草稿、润色、回复、跟进和批量邮件
+- [x] 第 62 讲：[中文](articles/lesson-62-calendar-reminders-tasks-zh.md) / [English](articles/lesson-62-calendar-reminders-tasks-en.md)：用 OpenClaw 管理日程和提醒：会议、待办、周期任务
+- [x] 第 63 讲：[中文](articles/lesson-63-video-script-storyboard-zh.md) / [English](articles/lesson-63-video-script-storyboard-en.md)：用 OpenClaw 做视频脚本：选题、分镜、旁白和镜头表
+- [x] 第 64 讲：[中文](articles/lesson-64-short-video-production-assistant-zh.md) / [English](articles/lesson-64-short-video-production-assistant-en.md)：用 OpenClaw 辅助做短视频：素材整理、字幕、剪辑清单和发布文案
+- [x] 第 65 讲：[中文](articles/lesson-65-podcast-interview-transcript-summary-zh.md) / [English](articles/lesson-65-podcast-interview-transcript-summary-en.md)：用 OpenClaw 做播客 / 访谈稿：提纲、问题、转写和摘要
+- [x] 第 66 讲：[中文](articles/lesson-66-web-research-report-zh.md) / [English](articles/lesson-66-web-research-report-en.md)：用 OpenClaw 做网页调研：搜索、打开网页、提取信息和生成报告
+- [x] 第 67 讲：[中文](articles/lesson-67-competitive-analysis-matrix-zh.md) / [English](articles/lesson-67-competitive-analysis-matrix-en.md)：用 OpenClaw 做竞品分析：网页、表格、截图和对比矩阵
+- [x] 第 68 讲：[中文](articles/lesson-68-customer-support-assistant-zh.md) / [English](articles/lesson-68-customer-support-assistant-en.md)：用 OpenClaw 做客服助手：知识库、回复草稿和升级判断
+- [x] 第 69 讲：[中文](articles/lesson-69-sales-assistant-crm-followup-zh.md) / [English](articles/lesson-69-sales-assistant-crm-followup-en.md)：用 OpenClaw 做销售助手：客户资料、跟进邮件和 CRM 记录
+- [x] 第 70 讲：[中文](articles/lesson-70-operations-campaign-retrospective-zh.md) / [English](articles/lesson-70-operations-campaign-retrospective-en.md)：用 OpenClaw 做运营助手：活动方案、素材清单、数据复盘
+- [x] 第 71 讲：[中文](articles/lesson-71-recruiting-assistant-zh.md) / [English](articles/lesson-71-recruiting-assistant-en.md)：用 OpenClaw 做招聘助手：JD、简历筛选、面试题和反馈总结
+- [x] 第 72 讲：[中文](articles/lesson-72-meeting-assistant-minutes-actions-zh.md) / [English](articles/lesson-72-meeting-assistant-minutes-actions-en.md)：用 OpenClaw 做会议助手：会议纪要、行动项、邮件同步
+- [x] 第 73 讲：[中文](articles/lesson-73-contract-legal-review-zh.md) / [English](articles/lesson-73-contract-legal-review-en.md)：用 OpenClaw 做合同 / 法务初筛：风险点、条款摘要和人工确认
+- [x] 第 74 讲：[中文](articles/lesson-74-finance-reimbursement-assistant-zh.md) / [English](articles/lesson-74-finance-reimbursement-assistant-en.md)：用 OpenClaw 做财务报销助手：票据整理、表格汇总和异常提示
+- [x] 第 75 讲：[中文](articles/lesson-75-automated-daily-report-zh.md) / [English](articles/lesson-75-automated-daily-report-en.md)：用 OpenClaw 做自动化日报：定时采集、分析、生成和发送
+- [x] 第 76 讲：[中文](articles/lesson-76-personal-office-automation-workbench-zh.md) / [English](articles/lesson-76-personal-office-automation-workbench-en.md)：综合实战：搭建一个个人办公自动化工作台
+
 ## 建议写作节奏
 
 后续文章不用强行追求天数，可以按“模块完整度”推进：
