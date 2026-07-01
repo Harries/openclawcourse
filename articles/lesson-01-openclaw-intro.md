@@ -377,3 +377,7 @@ AI 能不能稳定地进入真实系统，长期帮我处理任务？
 下一节我们会继续拆 OpenClaw 的核心结构：Gateway、CLI、Bridge、Workspace。
 
 只要这四个概念搞清楚，后面学习模型接入、插件系统、部署排错和企业实战，就会轻松很多。你会开始知道：用户的一句话进入 OpenClaw 后，到底经过哪些入口、调度和工作现场。
+
+---
+
+原文外链：[OpenClaw 是什么？为什么它不是普通 AI Agent](https://www.harries.blog/archives/720255.html)

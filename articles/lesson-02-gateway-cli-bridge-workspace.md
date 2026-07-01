@@ -637,3 +637,7 @@ Workspace 让 Agent 有地方工作、有上下文可读、有记忆可延续。
 - [OpenClaw MCP CLI](https://docs.openclaw.ai/cli/mcp)
 - [OpenClaw Agent workspace](https://docs.openclaw.ai/concepts/agent-workspace)
 - [OpenClaw Bridge protocol](https://docs.openclaw.ai/gateway/bridge-protocol)
+
+---
+
+原文外链：[Gateway、CLI、Bridge、Workspace 全部讲透](https://www.harries.blog/archives/720261.html)
