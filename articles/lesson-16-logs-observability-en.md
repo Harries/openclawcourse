@@ -205,3 +205,7 @@ Next: Provider abstraction and why OpenClaw can connect to many models.
 - OpenClaw Docs: [Debugging](https://docs.openclaw.ai/help/debugging)
 - OpenClaw Docs: [Doctor](https://docs.openclaw.ai/gateway/doctor)
 - OpenClaw Docs: [Health checks](https://docs.openclaw.ai/gateway/health)
+
+---
+
+Original link: [Logs and Observability: Understanding a Failed Call](https://en.harries.blog/logs-and-observability-understanding-a-failed-call/)

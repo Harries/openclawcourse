@@ -520,3 +520,6 @@ Understanding the Agent Loop is the first step. To run agents long-term, you als
 - [OpenClaw Tools overview](https://docs.openclaw.ai/tools)
 - [OpenClaw Exec tool](https://docs.openclaw.ai/tools/exec)
 
+---
+
+Original link: [Build a Minimal Agent by Hand](https://en.harries.blog/build-a-minimal-agent-by-hand/)

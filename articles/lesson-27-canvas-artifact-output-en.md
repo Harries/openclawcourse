@@ -252,3 +252,7 @@ Next: what to do when tools fail: retry, rollback, human confirmation, and risk 
 - OpenClaw Docs: [Canvas plugin](https://docs.openclaw.ai/plugins/reference/canvas)
 - OpenClaw Docs: [OpenClaw App SDK API design](https://docs.openclaw.ai/reference/openclaw-sdk-api-design)
 - OpenClaw Docs: [Control UI](https://docs.openclaw.ai/web/control-ui)
+
+---
+
+Original link: [Canvas / Artifact: Turning Results Into Visible, Interactive Outputs](https://en.harries.blog/canvas-artifact-turning-results-into-visible-interactive-outputs/)

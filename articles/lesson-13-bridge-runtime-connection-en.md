@@ -375,3 +375,7 @@ We will explain why workspace is both a context source and default cwd, but not 
 - OpenClaw Docs: [ACP CLI](https://docs.openclaw.ai/cli/acp)
 - OpenClaw Docs: [CLI reference](https://docs.openclaw.ai/cli)
 - OpenClaw Docs: [Agent loop](https://docs.openclaw.ai/concepts/agent-loop)
+
+---
+
+Original link: [Bridge: Connecting Models, Tools, and Runtime Environments](https://en.harries.blog/bridge-connecting-models-tools-and-runtime-environments/)

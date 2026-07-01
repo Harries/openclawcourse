@@ -157,3 +157,7 @@ Next: model failover, retries, and error handling.
 - OpenClaw Docs: [Tool plugins](https://docs.openclaw.ai/plugins/tool-plugins)
 - OpenClaw Docs: [Tools invoke API](https://docs.openclaw.ai/gateway/tools-invoke-http-api)
 - OpenClaw Docs: [Exec approvals](https://docs.openclaw.ai/tools/exec-approvals)
+
+---
+
+Original link: [Tool Call Protocol: How Models Decide Which Tool to Use](https://en.harries.blog/tool-call-protocol-how-models-decide-which-tool-to-use/)

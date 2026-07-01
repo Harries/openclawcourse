@@ -625,3 +625,7 @@ We will place sessions, messages, queues, and streams inside the Gateway and see
 - OpenClaw Docs: [Messages](https://docs.openclaw.ai/concepts/messages)
 - OpenClaw Docs: [Retry policy](https://docs.openclaw.ai/concepts/retry)
 - OpenClaw Docs: [Command Queue](https://docs.openclaw.ai/concepts/queue)
+
+---
+
+Original link: [How Streaming Output, Tool Calls, and Intermediate State Return to the User](https://en.harries.blog/how-streaming-output-tool-calls-and-intermediate-state-return-to-the-user/)

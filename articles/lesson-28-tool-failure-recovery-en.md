@@ -264,3 +264,7 @@ Next we move into Skills, MCP, and plugin extension: from using OpenClaw skills 
 - OpenClaw Docs: [Trajectory bundles](https://docs.openclaw.ai/tools/trajectory)
 - OpenClaw Docs: [Diagnostics export](https://docs.openclaw.ai/gateway/diagnostics)
 - OpenClaw Docs: [apply_patch tool](https://docs.openclaw.ai/tools/apply-patch)
+
+---
+
+Original link: [What to Do When Tools Fail: Retry, Rollback, Human Confirmation, and Risk Warnings](https://en.harries.blog/what-to-do-when-tools-fail-retry-rollback-human-confirmation-and-risk-warnings/)

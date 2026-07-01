@@ -203,3 +203,6 @@ Next we cover knowledge-base Q&A: RAG, file indexing, and permission boundaries.
 - OpenClaw Docs: [Operator scopes](https://docs.openclaw.ai/gateway/operator-scopes)
 - OpenClaw Docs: [Gateway configuration](https://docs.openclaw.ai/gateway/configuration)
 
+---
+
+Original link: [Web Automation Assistant: From User Need to Browser Execution Flow](https://en.harries.blog/web-automation-assistant-from-user-need-to-browser-execution-flow/)

@@ -167,3 +167,7 @@ Next: context assembly, including files, history, instructions, and tool schemas
 - OpenClaw Docs: [Models CLI](https://docs.openclaw.ai/concepts/models)
 - OpenClaw Docs: [Token use and costs](https://docs.openclaw.ai/reference/token-use)
 - OpenClaw Docs: [Usage tracking](https://docs.openclaw.ai/concepts/usage-tracking)
+
+---
+
+Original link: [Model Selection: Speed, Cost, Context Length, and Tool Capability](https://en.harries.blog/model-selection-speed-cost-context-length-and-tool-capability/)

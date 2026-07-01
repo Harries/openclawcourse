@@ -155,3 +155,7 @@ Next we enter tools, Browser, Shell, and Canvas: how OpenClaw actually acts.
 - OpenClaw Docs: [Model providers](https://docs.openclaw.ai/concepts/model-providers)
 - OpenClaw Docs: [Models CLI](https://docs.openclaw.ai/concepts/models)
 - OpenClaw Docs: [FAQ: models and auth](https://docs.openclaw.ai/help/faq-models)
+
+---
+
+Original link: [Model Failover, Retries, and Error Handling](https://en.harries.blog/model-failover-retries-and-error-handling/)

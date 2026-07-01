@@ -174,3 +174,7 @@ Next: connecting OpenAI, Claude, Gemini, and OpenAI-compatible providers.
 - OpenClaw Docs: [Provider directory](https://docs.openclaw.ai/providers)
 - OpenClaw Docs: [Agent runtimes](https://docs.openclaw.ai/concepts/agent-runtimes)
 - OpenClaw Docs: [Building provider plugins](https://docs.openclaw.ai/plugins/sdk-provider-plugins)
+
+---
+
+Original link: [Provider Abstraction: Why OpenClaw Can Use Different Models](https://en.harries.blog/provider-abstraction-why-openclaw-can-use-different-models/)

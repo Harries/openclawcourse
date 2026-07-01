@@ -769,3 +769,7 @@ The first four lessons focused on OpenClaw's system position, execution chain, a
 - [Claude Code Overview](https://code.claude.com/docs/en/overview)
 - [How Claude Code works](https://code.claude.com/docs/en/how-claude-code-works)
 - [Claude Code MCP](https://code.claude.com/docs/en/mcp)
+
+---
+
+Original link: [OpenClaw vs OpenHands vs Hermes vs Claude Code](https://en.harries.blog/openclaw-vs-openhands-vs-hermes-vs-claude-code/)

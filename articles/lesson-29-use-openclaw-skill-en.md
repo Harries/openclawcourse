@@ -342,3 +342,6 @@ Now that you know how to use a skill, we will look at ClawHub, Git skills, local
 - [OpenClaw System prompt](https://docs.openclaw.ai/concepts/system-prompt)
 - [OpenClaw Context](https://docs.openclaw.ai/concepts/context)
 
+---
+
+Original link: [How to Use OpenClaw Skills](https://en.harries.blog/how-to-use-openclaw-skills-2/)

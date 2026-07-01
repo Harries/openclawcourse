@@ -734,3 +734,7 @@ That answers a more specific question: how OpenClaw knows who a message belongs 
 - OpenClaw Docs: [Command Queue](https://docs.openclaw.ai/concepts/queue)
 - OpenClaw Docs: [Steering Queue](https://docs.openclaw.ai/concepts/queue-steering)
 - OpenClaw Docs: [Streaming and chunking](https://docs.openclaw.ai/concepts/streaming)
+
+---
+
+Original link: [The Complete Lifecycle of an OpenClaw Request](https://en.harries.blog/the-complete-lifecycle-of-an-openclaw-request/)

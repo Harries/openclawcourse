@@ -169,3 +169,7 @@ Next: choosing models by speed, cost, context length, and tool capability.
 - OpenClaw Docs: [Google Gemini](https://docs.openclaw.ai/providers/google)
 - OpenClaw Docs: [Local models](https://docs.openclaw.ai/gateway/local-models)
 - OpenClaw Docs: [Model providers](https://docs.openclaw.ai/concepts/model-providers)
+
+---
+
+Original link: [Connecting OpenAI, Claude, Gemini, and OpenAI-Compatible Providers](https://en.harries.blog/connecting-openai-claude-gemini-and-openai-compatible-providers/)

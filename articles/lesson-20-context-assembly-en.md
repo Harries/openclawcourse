@@ -165,3 +165,7 @@ Next: tool call protocol and how models decide which tool to call.
 - OpenClaw Docs: [System prompt](https://docs.openclaw.ai/concepts/system-prompt)
 - OpenClaw Docs: [Compaction](https://docs.openclaw.ai/concepts/compaction)
 - OpenClaw Docs: [Session pruning](https://docs.openclaw.ai/concepts/session-pruning)
+
+---
+
+Original link: [Context Assembly: Files, History, Instructions, and Tool Schemas](https://en.harries.blog/context-assembly-files-history-instructions-and-tool-schemas/)

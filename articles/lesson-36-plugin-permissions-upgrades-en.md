@@ -284,3 +284,7 @@ Next section: deployment, configuration, and debugging, starting with local inst
 - OpenClaw Docs: [Plugin compatibility](https://docs.openclaw.ai/plugins/compatibility)
 - OpenClaw Docs: [Plugin manifest](https://docs.openclaw.ai/plugins/manifest)
 - OpenClaw Docs: [ClawHub security audits](https://docs.openclaw.ai/clawhub/security-audits)
+
+---
+
+Original link: [Plugin Permissions, Installation, Updates, and Compatibility](https://en.harries.blog/plugin-permissions-installation-updates-and-compatibility/)

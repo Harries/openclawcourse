@@ -241,3 +241,7 @@ Next: Plugin basics, packaging Skills, MCP, and frontend capabilities.
 - MCP Spec: [Tools](https://modelcontextprotocol.io/specification/2025-11-25/server/tools)
 - MCP Spec: [Transports](https://modelcontextprotocol.io/specification/2025-11-25/basic/transports)
 - OpenClaw Docs: [MCP CLI](https://docs.openclaw.ai/cli/mcp)
+
+---
+
+Original link: [Turning an External System Into an MCP Tool](https://en.harries.blog/turning-an-external-system-into-an-mcp-tool/)

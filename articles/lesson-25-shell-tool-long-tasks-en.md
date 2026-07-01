@@ -260,3 +260,7 @@ Next: Browser Tool for opening pages, clicking, typing, screenshots, and verific
 - OpenClaw Docs: [Background exec and process tool](https://docs.openclaw.ai/gateway/background-process)
 - OpenClaw Docs: [Exec approvals](https://docs.openclaw.ai/tools/exec-approvals)
 - OpenClaw Docs: [apply_patch tool](https://docs.openclaw.ai/tools/apply-patch)
+
+---
+
+Original link: [Shell Tool: Command Execution, Output Reading, and Long-Running Tasks](https://en.harries.blog/shell-tool-command-execution-output-reading-and-long-running-tasks/)

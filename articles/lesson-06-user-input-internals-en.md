@@ -416,3 +416,6 @@ We now know the model does not operate the world directly. It acts through tools
 - [OpenClaw Agent runtime](https://docs.openclaw.ai/concepts/agent)
 - [OpenClaw Gateway architecture](https://docs.openclaw.ai/concepts/architecture)
 
+---
+
+Original link: [What Happens Inside OpenClaw After User Input](https://en.harries.blog/what-happens-inside-openclaw-after-user-input/)

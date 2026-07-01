@@ -504,3 +504,7 @@ That answers a sensitive question: when system rules, project rules, skill instr
 - OpenClaw Docs: [Context](https://docs.openclaw.ai/concepts/context)
 - OpenClaw Docs: [Steering queue](https://docs.openclaw.ai/concepts/queue-steering)
 - OpenClaw Docs: [Message lifecycle refactor](https://docs.openclaw.ai/concepts/message-lifecycle-refactor)
+
+---
+
+Original link: [How Sessions, Messages, Context, and Task State Are Organized](https://en.harries.blog/how-sessions-messages-context-and-task-state-are-organized/)

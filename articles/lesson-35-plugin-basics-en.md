@@ -233,3 +233,7 @@ Next: plugin permissions, installation, updates, and compatibility.
 - OpenClaw Docs: [Plugin manifest](https://docs.openclaw.ai/plugins/manifest)
 - OpenClaw Docs: [Plugin SDK overview](https://docs.openclaw.ai/plugins/sdk-overview)
 - OpenClaw Docs: [Manage plugins](https://docs.openclaw.ai/plugins/manage-plugins)
+
+---
+
+Original link: [Plugin Basics: Packaging Skills, MCP, and Frontend Capabilities](https://en.harries.blog/pluginbasics/)

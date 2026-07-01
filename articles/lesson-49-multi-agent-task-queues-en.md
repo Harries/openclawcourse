@@ -250,3 +250,6 @@ Next we cover SaaS adaptation: users, tenants, quotas, audit, and isolation.
 - OpenClaw Docs: [Session management](https://docs.openclaw.ai/concepts/session)
 - OpenClaw Docs: [Security](https://docs.openclaw.ai/gateway/security)
 
+---
+
+Original link: [Multi-Agent Systems and Task Queues: When to Split Work](https://en.harries.blog/multi-agent-systems-and-task-queues-when-to-split-work/)

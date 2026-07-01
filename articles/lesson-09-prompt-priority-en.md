@@ -472,3 +472,7 @@ That moves us from what the model should follow to how OpenClaw shows the execut
 - OpenClaw Docs: [Agent loop](https://docs.openclaw.ai/concepts/agent-loop)
 - OpenClaw Docs: [Messages](https://docs.openclaw.ai/concepts/messages)
 - OpenClaw Docs: [Slash commands](https://docs.openclaw.ai/tools/slash-commands)
+
+---
+
+Original link: [The Priority Between System Prompt, Developer Instructions, and User Input](https://en.harries.blog/the-priority-between-system-prompt-developer-instructions-and-user-input/)

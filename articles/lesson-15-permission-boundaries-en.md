@@ -410,3 +410,7 @@ We will use request ids, run ids, tool events, Gateway logs, doctor, health, and
 - OpenClaw Docs: [Sandboxing](https://docs.openclaw.ai/gateway/sandboxing)
 - OpenClaw Docs: [Agent workspace](https://docs.openclaw.ai/concepts/agent-workspace)
 - OpenClaw Docs: [Browser tool](https://docs.openclaw.ai/tools/browser)
+
+---
+
+Original link: [Permission Model: Safety Boundaries for Shell, Browser, and File Operations](https://en.harries.blog/permission-model-safety-boundaries-for-shell-browser-and-file-operations/)

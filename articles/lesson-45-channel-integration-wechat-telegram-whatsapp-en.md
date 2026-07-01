@@ -282,3 +282,6 @@ Next we build a web automation assistant from user need to Browser execution flo
 - OpenClaw Docs: [Session management](https://docs.openclaw.ai/concepts/session)
 - OpenClaw Docs: [Multi-agent routing](https://docs.openclaw.ai/concepts/multi-agent)
 
+---
+
+Original link: [Enterprise WeChat, Telegram, and WhatsApp Integration Patterns](https://en.harries.blog/enterprise-wechat-telegram-and-whatsapp-integration-patterns/)

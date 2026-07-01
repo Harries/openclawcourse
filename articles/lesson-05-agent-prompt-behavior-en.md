@@ -365,3 +365,6 @@ This lesson focused on prompt behavior. Next, we follow the runtime path: Gatewa
 - [OpenClaw Agent runtime](https://docs.openclaw.ai/concepts/agent)
 - [OpenClaw Skills](https://docs.openclaw.ai/tools/skills)
 
+---
+
+Original link: [How Agent Prompts Shape Behavior](https://en.harries.blog/how-agent-prompts-shape-behavior/)

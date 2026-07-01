@@ -793,3 +793,7 @@ Once you understand the loop described here, that comparison becomes much easier
 - [OpenClaw Exec tool](https://docs.openclaw.ai/tools/exec)
 - [OpenClaw Browser tool](https://docs.openclaw.ai/tools/browser)
 - [OpenClaw Browser CLI](https://docs.openclaw.ai/cli/browser)
+
+---
+
+Original link: [How OpenClaw Calls Models, Tools, and Browsers: Turning AI From Chat Into Execution](https://en.harries.blog/how-openclaw-calls-models-tools-and-browsers-turning-ai-from-chat-into-execution/)

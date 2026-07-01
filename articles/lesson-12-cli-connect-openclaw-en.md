@@ -370,3 +370,7 @@ We will untangle a confusing word: historical TCP Bridge, current Gateway protoc
 - OpenClaw Docs: [Gateway architecture](https://docs.openclaw.ai/concepts/architecture)
 - OpenClaw Docs: [Browser tool](https://docs.openclaw.ai/tools/browser)
 - OpenClaw Docs: [Exec approvals](https://docs.openclaw.ai/tools/exec-approvals)
+
+---
+
+Original link: [CLI: How Local Commands Connect to OpenClaw](https://en.harries.blog/cli-how-local-commands-connect-to-openclaw/)

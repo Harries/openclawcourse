@@ -213,3 +213,7 @@ Next: turning an external system into an MCP tool.
 - MCP Spec: [Resources](https://modelcontextprotocol.io/specification/2025-11-25/server/resources)
 - MCP Spec: [Prompts](https://modelcontextprotocol.io/specification/2025-11-25/server/prompts)
 - OpenClaw Docs: [MCP CLI](https://docs.openclaw.ai/cli/mcp)
+
+---
+
+Original link: [MCP Basics: Server, Tool, Resource, and Prompt](https://en.harries.blog/mcp-basics-server-tool-resource-and-prompt/)

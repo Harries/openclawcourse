@@ -399,3 +399,7 @@ We will place Gateway auth, operator trust, exec approvals, browser isolation, s
 - OpenClaw Docs: [Sandboxing](https://docs.openclaw.ai/gateway/sandboxing)
 - OpenClaw Docs: [Security](https://docs.openclaw.ai/gateway/security)
 - OpenClaw Docs: [Exec approvals](https://docs.openclaw.ai/tools/exec-approvals)
+
+---
+
+Original link: [Workspace: Filesystem, Project Context, and Execution Boundaries](https://en.harries.blog/workspace-filesystem-project-context-and-execution-boundaries/)

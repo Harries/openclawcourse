@@ -305,3 +305,7 @@ We will start from commands such as `openclaw agent`, `openclaw gateway`, and `o
 - OpenClaw Docs: [Agent loop](https://docs.openclaw.ai/concepts/agent-loop)
 - OpenClaw Docs: [Command queue](https://docs.openclaw.ai/concepts/queue)
 - OpenClaw Docs: [Streaming and chunking](https://docs.openclaw.ai/concepts/streaming)
+
+---
+
+Original link: [Gateway: OpenClaw’s Entry Layer and Scheduling Center](https://en.harries.blog/gateway-openclaws-entry-layer-and-scheduling-center/)
