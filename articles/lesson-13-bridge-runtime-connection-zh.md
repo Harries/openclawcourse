@@ -379,3 +379,7 @@ Workspace：文件系统、项目上下文和执行边界
 - OpenClaw Docs：[ACP CLI](https://docs.openclaw.ai/cli/acp)
 - OpenClaw Docs：[CLI reference](https://docs.openclaw.ai/cli)
 - OpenClaw Docs：[Agent loop](https://docs.openclaw.ai/concepts/agent-loop)
+
+---
+
+原文外链：[Bridge：连接模型、工具和运行环境的中间层](https://www.harries.blog/archives/720329.html)

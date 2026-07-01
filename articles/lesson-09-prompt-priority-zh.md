@@ -486,3 +486,7 @@ OpenClaw 的指令优先级可以简化成：
 - OpenClaw Docs：[Agent loop](https://docs.openclaw.ai/concepts/agent-loop)
 - OpenClaw Docs：[Messages](https://docs.openclaw.ai/concepts/messages)
 - OpenClaw Docs：[Slash commands](https://docs.openclaw.ai/tools/slash-commands)
+
+---
+
+原文外链：[系统提示词、开发者指令和用户输入的优先级](https://www.harries.blog/archives/720310.html)

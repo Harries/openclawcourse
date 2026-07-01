@@ -507,3 +507,7 @@ Task State 让长任务、工具调用、steering 和中断可管理。
 - OpenClaw Docs：[Context](https://docs.openclaw.ai/concepts/context)
 - OpenClaw Docs：[Steering queue](https://docs.openclaw.ai/concepts/queue-steering)
 - OpenClaw Docs：[Message lifecycle refactor](https://docs.openclaw.ai/concepts/message-lifecycle-refactor)
+
+---
+
+原文外链：[会话、消息、上下文和任务状态如何组织](https://www.harries.blog/archives/720306.html)

@@ -205,3 +205,6 @@ OpenClaw browser config 有 SSRF policy，私网访问默认要谨慎启用。
 - OpenClaw Docs：[Operator scopes](https://docs.openclaw.ai/gateway/operator-scopes)
 - OpenClaw Docs：[Gateway configuration](https://docs.openclaw.ai/gateway/configuration)
 
+---
+
+原文外链：[网页自动化助手：从需求到 Browser 执行链路](https://www.harries.blog/archives/720444.html)

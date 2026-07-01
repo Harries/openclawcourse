@@ -766,3 +766,7 @@ OpenClaw 先把外部输入变成可运行的 agent request，
 - OpenClaw Docs：[Command Queue](https://docs.openclaw.ai/concepts/queue)
 - OpenClaw Docs：[Steering Queue](https://docs.openclaw.ai/concepts/queue-steering)
 - OpenClaw Docs：[Streaming and chunking](https://docs.openclaw.ai/concepts/streaming)
+
+---
+
+原文外链：[一次 OpenClaw 请求的完整生命周期](https://www.harries.blog/archives/720302.html)

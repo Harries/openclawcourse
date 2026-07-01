@@ -580,3 +580,7 @@ OpenClaw 负责执行、限制、记录和回传结果。
 - [OpenClaw Canvas](https://docs.openclaw.ai/platforms/mac/canvas)
 - [OpenClaw Agent loop](https://docs.openclaw.ai/concepts/agent-loop)
 - [OpenClaw Tools overview](https://docs.openclaw.ai/tools)
+
+---
+
+原文外链：[Browser、Shell、Canvas 原理](https://www.harries.blog/archives/720385.html)

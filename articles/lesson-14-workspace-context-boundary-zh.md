@@ -401,3 +401,7 @@ Workspace 负责让 Agent 知道“我在哪、该按什么规则做事”；san
 - OpenClaw Docs：[Sandboxing](https://docs.openclaw.ai/gateway/sandboxing)
 - OpenClaw Docs：[Security](https://docs.openclaw.ai/gateway/security)
 - OpenClaw Docs：[Exec approvals](https://docs.openclaw.ai/tools/exec-approvals)
+
+---
+
+原文外链：[Workspace：文件系统、项目上下文和执行边界](https://www.harries.blog/archives/720333.html)

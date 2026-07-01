@@ -171,3 +171,7 @@ fallback 是否按预期工作
 - OpenClaw Docs：[Google Gemini](https://docs.openclaw.ai/providers/google)
 - OpenClaw Docs：[Local models](https://docs.openclaw.ai/gateway/local-models)
 - OpenClaw Docs：[Model providers](https://docs.openclaw.ai/concepts/model-providers)
+
+---
+
+原文外链：[OpenAI、Claude、Gemini 与 OpenAI Compatible 接入方式](https://www.harries.blog/archives/720357.html)

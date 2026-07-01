@@ -207,3 +207,7 @@ probe
 - OpenClaw Docs：[Debugging](https://docs.openclaw.ai/help/debugging)
 - OpenClaw Docs：[Doctor](https://docs.openclaw.ai/gateway/doctor)
 - OpenClaw Docs：[Health checks](https://docs.openclaw.ai/gateway/health)
+
+---
+
+原文外链：[日志与可观测性：如何看懂一次失败的调用](https://www.harries.blog/archives/720349.html)

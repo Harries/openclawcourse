@@ -266,3 +266,7 @@ rm -rf *
 - OpenClaw Docs：[Trajectory bundles](https://docs.openclaw.ai/tools/trajectory)
 - OpenClaw Docs：[Diagnostics export](https://docs.openclaw.ai/gateway/diagnostics)
 - OpenClaw Docs：[apply_patch tool](https://docs.openclaw.ai/tools/apply-patch)
+
+---
+
+原文外链：[工具失败时怎么办：重试、回滚、人工确认和风险提示](https://www.harries.blog/archives/720405.html)

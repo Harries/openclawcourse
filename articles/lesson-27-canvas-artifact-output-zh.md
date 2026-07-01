@@ -254,3 +254,7 @@ Browser 帮 Agent 获取和验证外部页面，Canvas 帮 Agent 展示和迭代
 - OpenClaw Docs：[Canvas plugin](https://docs.openclaw.ai/plugins/reference/canvas)
 - OpenClaw Docs：[OpenClaw App SDK API design](https://docs.openclaw.ai/reference/openclaw-sdk-api-design)
 - OpenClaw Docs：[Control UI](https://docs.openclaw.ai/web/control-ui)
+
+---
+
+原文外链：[Canvas / Artifact：把结果变成可查看、可交互的产物](https://www.harries.blog/archives/720401.html)

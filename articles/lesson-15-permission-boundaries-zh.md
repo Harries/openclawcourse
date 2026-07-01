@@ -404,3 +404,7 @@ Gateway 决定谁能进入，workspace 决定默认工作位置，sandbox 降低
 - OpenClaw Docs：[Sandboxing](https://docs.openclaw.ai/gateway/sandboxing)
 - OpenClaw Docs：[Agent workspace](https://docs.openclaw.ai/concepts/agent-workspace)
 - OpenClaw Docs：[Browser tool](https://docs.openclaw.ai/tools/browser)
+
+---
+
+原文外链：[权限模型：Shell、Browser、文件读写的安全边界](https://www.harries.blog/archives/720345.html)

@@ -635,3 +635,7 @@ Gateway：OpenClaw 的入口层和调度中心
 - OpenClaw Docs：[Messages](https://docs.openclaw.ai/concepts/messages)
 - OpenClaw Docs：[Retry policy](https://docs.openclaw.ai/concepts/retry)
 - OpenClaw Docs：[Command Queue](https://docs.openclaw.ai/concepts/queue)
+
+---
+
+原文外链：[流式输出、工具调用和中间状态如何返回给用户](https://www.harries.blog/archives/720314.html)

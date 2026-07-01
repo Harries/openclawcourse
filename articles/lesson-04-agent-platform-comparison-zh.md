@@ -786,3 +786,7 @@ OpenClaw 帮你把 Agent 接进真实业务系统。
 - [Claude Code Overview](https://code.claude.com/docs/en/overview)
 - [How Claude Code works](https://code.claude.com/docs/en/how-claude-code-works)
 - [Claude Code MCP](https://code.claude.com/docs/en/mcp)
+
+---
+
+原文外链：[OpenClaw vs OpenHands vs Hermes vs Claude Code](https://www.harries.blog/archives/720281.html)

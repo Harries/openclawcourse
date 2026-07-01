@@ -801,3 +801,7 @@ OpenClaw 执行工具
 - [OpenClaw Exec tool](https://docs.openclaw.ai/tools/exec)
 - [OpenClaw Browser tool](https://docs.openclaw.ai/tools/browser)
 - [OpenClaw Browser CLI](https://docs.openclaw.ai/cli/browser)
+
+---
+
+原文外链：[OpenClaw 如何调用模型、工具和浏览器：从“聊天 AI”到“会干活的 Agent”](https://www.harries.blog/archives/720273.html)

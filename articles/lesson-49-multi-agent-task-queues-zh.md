@@ -252,3 +252,6 @@ lost
 - OpenClaw Docs：[Session management](https://docs.openclaw.ai/concepts/session)
 - OpenClaw Docs：[Security](https://docs.openclaw.ai/gateway/security)
 
+---
+
+原文外链：[多 Agent 与任务队列：什么时候需要拆分任务](https://www.harries.blog/archives/720453.html)

@@ -374,3 +374,6 @@ Tools 管真实能力
 - [OpenClaw Agent runtime](https://docs.openclaw.ai/concepts/agent)
 - [OpenClaw Skills](https://docs.openclaw.ai/tools/skills)
 
+---
+
+原文外链：[Agent Prompt 是怎么影响行为的](https://www.harries.blog/archives/720294.html)

@@ -219,3 +219,7 @@ Tool 负责动作，Resource 负责上下文，Prompt 负责模板，Server 负�
 - MCP Spec：[Resources](https://modelcontextprotocol.io/specification/2025-11-25/server/resources)
 - MCP Spec：[Prompts](https://modelcontextprotocol.io/specification/2025-11-25/server/prompts)
 - OpenClaw Docs：[MCP CLI](https://docs.openclaw.ai/cli/mcp)
+
+---
+
+原文外链：[MCP 基础：Server、Tool、Resource 和 Prompt](https://www.harries.blog/archives/720414.html)

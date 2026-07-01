@@ -282,3 +282,7 @@ minGatewayVersion 是否满足
 - OpenClaw Docs：[Plugin compatibility](https://docs.openclaw.ai/plugins/compatibility)
 - OpenClaw Docs：[Plugin manifest](https://docs.openclaw.ai/plugins/manifest)
 - OpenClaw Docs：[ClawHub security audits](https://docs.openclaw.ai/clawhub/security-audits)
+
+---
+
+原文外链：[插件权限、安装、升级和版本兼容](https://www.harries.blog/archives/720427.html)

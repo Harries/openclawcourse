@@ -540,3 +540,6 @@ OpenClaw 的强大不在于它改变了这个本质。
 - [OpenClaw Tools overview](https://docs.openclaw.ai/tools)
 - [OpenClaw Exec tool](https://docs.openclaw.ai/tools/exec)
 
+---
+
+原文外链：[手写一个最小 Agent](https://www.harries.blog/archives/720389.html)

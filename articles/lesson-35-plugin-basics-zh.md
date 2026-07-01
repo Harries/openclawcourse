@@ -234,3 +234,7 @@ Skill 教会 Agent，MCP 连接外部系统，Plugin 把能力打包成可安装
 - OpenClaw Docs：[Plugin manifest](https://docs.openclaw.ai/plugins/manifest)
 - OpenClaw Docs：[Plugin SDK overview](https://docs.openclaw.ai/plugins/sdk-overview)
 - OpenClaw Docs：[Manage plugins](https://docs.openclaw.ai/plugins/manage-plugins)
+
+---
+
+原文外链：[Plugin 基础：把 Skill、MCP 和前端能力打包](https://www.harries.blog/archives/720422.html)

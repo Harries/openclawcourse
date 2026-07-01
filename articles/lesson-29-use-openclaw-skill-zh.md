@@ -382,3 +382,6 @@ OpenClaw 不会把所有 Skill 全文都塞进 Prompt，而是把名称、描述
 - [OpenClaw System prompt](https://docs.openclaw.ai/concepts/system-prompt)
 - [OpenClaw Context](https://docs.openclaw.ai/concepts/context)
 
+---
+
+原文外链：[如何使用 OpenClaw Skill](https://www.harries.blog/archives/720283.html)

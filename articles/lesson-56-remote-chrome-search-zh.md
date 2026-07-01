@@ -305,3 +305,7 @@ Navigation blocked by SSRF policy
 - [OpenClaw 浏览器 Linux 排错](/tools/browser-linux-troubleshooting)
 - [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/)
 - [第 46 讲：网页自动化助手](articles/lesson-46-browser-automation-assistant-flow-zh.md)
+
+---
+
+原文外链：[OpenClaw 连接远程 Chrome 实现搜索与自动化](https://www.harries.blog/archives/720428.html)

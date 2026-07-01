@@ -174,3 +174,7 @@ Provider 负责适配差异，Runtime 负责稳定执行。
 - OpenClaw Docs：[Provider directory](https://docs.openclaw.ai/providers)
 - OpenClaw Docs：[Agent runtimes](https://docs.openclaw.ai/concepts/agent-runtimes)
 - OpenClaw Docs：[Building provider plugins](https://docs.openclaw.ai/plugins/sdk-provider-plugins)
+
+---
+
+原文外链：[Provider 抽象：为什么 OpenClaw 可以接不同模型](https://www.harries.blog/archives/720353.html)

@@ -155,3 +155,7 @@ openai:api-key-backup
 - OpenClaw Docs：[Model providers](https://docs.openclaw.ai/concepts/model-providers)
 - OpenClaw Docs：[Models CLI](https://docs.openclaw.ai/concepts/models)
 - OpenClaw Docs：[FAQ: models and auth](https://docs.openclaw.ai/help/faq-models)
+
+---
+
+原文外链：[模型降级、重试和错误处理策略](https://www.harries.blog/archives/720381.html)

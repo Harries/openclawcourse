@@ -283,3 +283,6 @@ model config
 - OpenClaw Docs：[Session management](https://docs.openclaw.ai/concepts/session)
 - OpenClaw Docs：[Multi-agent routing](https://docs.openclaw.ai/concepts/multi-agent)
 
+---
+
+原文外链：[企业微信 / Telegram / WhatsApp 接入](https://www.harries.blog/archives/720433.html)
